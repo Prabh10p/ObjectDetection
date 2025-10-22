@@ -1,0 +1,6 @@
+pandas
+numpy
+langchain-huggingface
+transformers
+python-dotenv
+
