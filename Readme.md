@@ -1,7 +1,7 @@
 # 🧠Real-time object detection + AI visual descriptor
 
 ## 📸 Demo
-![Demo](/Users/prabhsandhu/Downloads/Object Detection OpenCV/Artifacts/Images/Real-Life-Object-Detection-Using-computer-vision-for-the-detection-of-face.jpg)
+![Demo](Artifacts/Images/Real-Life-Object-Detection-Using-computer-vision-for-the-detection-of-face.jpg)
 
 ## 📝 Overview
 1) This project uses YOLOv8, Ollama Vision Models (LLaVA), and Llama3.2 to analyze objects in real-time using your webcam.
@@ -27,7 +27,6 @@
 - 🖼️ On-screen UI overlay
 
 ## 📦 Requirements
-- Python Dependencies
 1) Install using pip:
 - pip install ultralytics opencv-python pillow requests numpy
 
