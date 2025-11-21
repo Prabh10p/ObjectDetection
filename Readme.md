@@ -47,4 +47,13 @@
 - Q	Quit
 
 6) 📁 Project Structure
-<pre> ``` project/ ├─ src/ │ └─ Object_detection.py ├─ images/ │ └─ demo.png ├─ README.md └─ requirements.txt ``` </pre>
+<pre>
+project/
+ ├─ src/
+ │   └─ Object_detection.py
+ ├─ images/
+ │   └─ demo.png
+ ├─ README.md
+ └─ requirements.txt
+</pre>
+
