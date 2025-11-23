@@ -1,4 +1,4 @@
-# 🧠Real-time object detection + AI visual descriptor
+# 🧠Real-time object detection using YOLO + AI visual descriptor
 
 ## 📸 Demo
 ![Demo](Artifacts/Images/real.jpg)
